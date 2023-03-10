@@ -1,8 +1,12 @@
 
-.debug_1{
-  background-color: rgba(86, 255, 199, 0.247);
+  .debug_1{
+    background-color: rgba(86, 255, 199, 0.247);
+    min-height: 80px;
+    border: 1px solid black;
 }
 
   .debug_2{
-  background-color: rgba(0, 0, 0, 0.247);
+    background-color: rgba(0, 0, 0, 0.247);
+    min-height: 80px;
+    border: 1px solid rgb(255, 1, 1);
 }
