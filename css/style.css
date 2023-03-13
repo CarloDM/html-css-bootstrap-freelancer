@@ -15,7 +15,7 @@
 
 .my_container {
   margin: 0px auto;
-  width: 85%;
+  width: 95%;
 }
 
 .my_bold {
@@ -62,4 +62,14 @@ header{
 
 #portfolio img{
 
+}
+
+/* about  */
+
+#about{
+  background-color: rgb(26, 188, 156);
+}
+
+.my_btn {
+  width: 120px;
 }
