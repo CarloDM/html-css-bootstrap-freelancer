@@ -1,25 +1,59 @@
 
   .debug_1{
     background-color: rgba(86, 255, 199, 0.247);
-    min-height: 80px;
+    min-height: 60px;
     border: 1px solid black;
 }
 
   .debug_2{
     background-color: rgba(0, 0, 0, 0.247);
-    min-height: 80px;
+    min-height: 60px;
     border: 1px solid rgb(255, 1, 1);
 }
 
-header{
-  background-color: rgb(66, 173, 173);
-}
-
-  #jumbotron {
-    height: 500px;
-}
+/* general */
 
 .my_container {
   margin: 0px auto;
   width: 85%;
+}
+
+.my_bold {
+  font-weight: 600;
+}
+
+a{
+  text-decoration: none;
+}
+
+.f_1{
+  font-size: 1.5rem;
+}
+
+.f_2 {
+  font-size: 1.2rem;
+}
+
+/* header  */
+
+header{
+  color: white;
+  background-color: rgb(44, 62, 80);
+  height: 70px;
+}
+
+.my_link {
+
+  font-weight: 600;
+}
+
+/* jumbotron  */
+
+#jumbotron {
+  height: 400px;
+  background-color: rgb(26, 188, 156);
+}
+
+#jumbotron img {
+  width: 50%;
 }
