@@ -10,3 +10,16 @@
     min-height: 80px;
     border: 1px solid rgb(255, 1, 1);
 }
+
+header{
+  background-color: rgb(66, 173, 173);
+}
+
+  #jumbotron {
+    height: 500px;
+}
+
+.my_container {
+  margin: 0px auto;
+  width: 85%;
+}
