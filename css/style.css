@@ -73,3 +73,15 @@ header{
 .my_btn {
   width: 120px;
 }
+
+/* contanct  */
+
+.my_form {
+  width: 100%;
+  padding: 6px 20px;
+  margin: 0px 0px;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 1px solid rgb(180, 180, 180);
+  border-radius: 0px;
+}
